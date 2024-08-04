@@ -16,7 +16,7 @@ The dataset used in this analysis includes the following columns:
 - `Season`: Encoded season of the year (0=Winter, 1=Spring, 2=Summer, 3=Autumn)
 
 ## Exploratory Data Analysis (EDA)
-A thorough EDA was conducted to understand the distribution and trends in the data. Key statistics include:
+A thorough EDA was conducted to understand the distribution and trends in the data.
 
 ## Time Series Forecasting
 A time series forecasting model was developed using CatBoost, a high-performance gradient boosting library. The model predicts hourly power consumption based on historical data and the various features described above.
